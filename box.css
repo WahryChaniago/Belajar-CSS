@@ -1,0 +1,25 @@
+div {
+    width: 300px;
+    margin: 20px;
+}
+
+div {
+    border-style: groove;
+    border-width: 10px;
+    border-color: bisque;
+}
+
+div {
+    padding: 20px 40px;
+}
+
+button {
+    background-color: transparent;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: aqua;
+    cursor: pointer;
+    padding: 5px 10px;
+}
