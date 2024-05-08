@@ -15,5 +15,23 @@ span {
     border: 1px solid black;
     padding: 3px;
     border-radius: 10px;
-    
+}
+
+#container {
+    margin: auto;
+    background-color: blue;
+    width: 95%;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container div {
+    width: 200px;
+    height: 200px;
 }
